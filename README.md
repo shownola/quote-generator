@@ -11,3 +11,5 @@ A simple quote generator application that pulls famous quotes from the forismati
 * Loading Spinner
 
 * Responsive
+
+* Deployed to github pages
