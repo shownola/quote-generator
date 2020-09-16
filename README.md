@@ -12,4 +12,4 @@ A simple quote generator application that pulls famous quotes from the forismati
 
 * Responsive
 
-* Deployed to github pages
+* Deployed to github pages https://shownola.github.io/quote-generator/
